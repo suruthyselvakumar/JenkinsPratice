@@ -6,6 +6,7 @@ System.out.println("Hey Twinkie");
 System.out.println("Hey Taffie");
   System.out.println("Hey Vijay");
   System.out.println("Hey dhanush");
+  System.out.println("Hey vicky");
   
 }
 }
